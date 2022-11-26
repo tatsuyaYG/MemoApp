@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavigationContainer, StackActions } from '@react-navigation/native';
-import { createStackNavigator, CardStyleInterpolators} from '@react-navigation/stack';
+import { createStackNavigator, CardStyleInterpolators } from '@react-navigation/stack';
 
 import MemoListScreen from './src/screens/MemoListScreen';
 import MemoDetailScreen from './src/screens/MemoDetailScreen';
